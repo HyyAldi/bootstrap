@@ -1,0 +1,11 @@
+#btn {
+    background-color: red;
+    color: white;
+    width: 50%;
+}
+
+#btn:hover {
+    cursor: pointer;
+    background-color: aqua;
+    color: black;
+}
